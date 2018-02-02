@@ -10,7 +10,7 @@ namespace StcApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 10 v9 unset");
+            Console.WriteLine("Hello World 10 v9 unset New v10");
         }
     }
 }
